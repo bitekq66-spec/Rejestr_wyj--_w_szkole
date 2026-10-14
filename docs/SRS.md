@@ -167,3 +167,10 @@ Wymagania walidacyjne:
 ## 12. Powiązanie wymagań z aplikacją
 
 Dokument opracowano na podstawie istniejących ekranów logowania, rejestru, panelu wychowawcy, paneli administratora i dyrektora, logiki aplikacji oraz usług danych. Implementacja nie jest sama w sobie potwierdzeniem zgodności z wymaganiami bezpieczeństwa. W szczególności reguły dostępu w Supabase, role uprawnione do kasowania oraz retencja danych wymagają osobnej weryfikacji i zatwierdzenia.
+
+## 13. Wstępny projekt
+
+![alt text](image.png)
+
+
+![alt text](image-2.png)
