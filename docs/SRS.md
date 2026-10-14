@@ -174,3 +174,16 @@ Dokument opracowano na podstawie istniejących ekranów logowania, rejestru, pan
 
 
 ![alt text](image-2.png)
+
+
+
+## 14. Dane logowań
+
+jan.kowalski@szkola.pl
+admin@szkola.pl
+anna.nowak@szkola.pl
+tomasz.mazur@szkola.pl
+dyrektor@szkola.pl
+piotr.wisniewski@szkola.pl
+
+Hasło do wszystkiego: Test1234!
